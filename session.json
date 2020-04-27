@@ -1,0 +1,26 @@
+{
+  "sessions": [
+    {
+      "id": "171634162:171634162",
+      "data": {
+        "LogedUser": {
+          "id": "oinfewoin8qw3p49rc8nqp932rb8qo23rsm9p"
+        },
+        "__scenes": {},
+        "counter": 12,
+        "LastConnection": 1587944359517
+      }
+    },
+    {
+      "id": "783256288:783256288",
+      "data": {
+        "LogedUser": {
+          "id": "oinfewoin8qw3p49rc8nqp932rb8qo23rsm9p"
+        },
+        "__scenes": {},
+        "counter": 1,
+        "LastConnection": 1587945145880
+      }
+    }
+  ]
+}

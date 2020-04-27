@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "TelegramUser": {
+        "id": 171634162,
+        "is_bot": false,
+        "first_name": "Leandro",
+        "last_name": "Moyano",
+        "username": "moyakpo",
+        "language_code": "es"
+      },
+      "chat": {
+        "id": 171634162,
+        "first_name": "Leandro",
+        "last_name": "Moyano",
+        "username": "moyakpo",
+        "type": "private"
+      },
+      "legajo": "L",
+      "displayName": "",
+      "level": 0,
+      "id": "7fba6c76-907c-426e-8396-864d0c7d407a"
+    }
+  ],
+  "operations": [],
+  "currentOperations": []
+}

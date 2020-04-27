@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "userId": "dfsdfsdf",
+      "TelegramuserId": 2324344,
+      "TelegramDisplayName": "Moyakpo",
+      "chatId": 876543,
+      "legajo": "L0796069",
+      "displayName": "Leandro Moyano",
+      "level": 1
+    }
+  ],
+  "operations": [
+    {
+      "operationName": "rebootTerminal",
+      "command": "reboot",
+      "displayName": "Reiniciar terminal",
+      "minimunLevel": 1,
+      "timeOut": 60
+    },
+    {
+      "operationName": "rebootAll",
+      "command": "rebootAll",
+      "displayName": "Reiniciar todas las terminales",
+      "minimunLevel": 2,
+      "timeOut": 60
+    }
+  ],
+  "currentOperations": [
+    {
+      "operationId": "GUID",
+      "userId": 2324344,
+      "lastInteraccion": "2020-04-19 13:18:20"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "moyabot-telegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc-watch --onSuccess \"node ./dist/src/bot.js\"",
+    "build": "tsc",
+    "start": "node dist/bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lowdb": "^1.0.9",
+    "nodemon": "^2.0.3",
+    "tsc": "^1.20150623.0",
+    "tsc-watch": "^4.2.3",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@types/node": "^13.11.1",
+    "@types/uuid": "^7.0.2",
+    "dotenv": "^8.2.0",
+    "lowdb": "^1.0.0",
+    "simple-node-logger": "^18.12.24",
+    "telegraf": "^3.37.0",
+    "telegraf-middleware-console-time": "^1.0.0",
+    "telegraf-session-local": "^1.0.2",
+    "uuid": "^7.0.3"
+  }
+}
